@@ -1,2 +1,2 @@
-# four_algorihtms
-一个网页版的四则运算软件
+# four_operations_web
+Use JS to create a web version of the four operations.
